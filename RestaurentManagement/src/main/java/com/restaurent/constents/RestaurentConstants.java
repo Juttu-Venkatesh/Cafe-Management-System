@@ -17,4 +17,6 @@ public class RestaurentConstants {
 	public static final String INCORRECT_OLDPASSWORD = "InCorrect Old Password";
 	
 	public static final String PASSWORD_UPDATED = "Password Updated Successfully";
+	
+	public static final String STORE_LOCATION = "D:\\Projects";
 }
